@@ -1,0 +1,8 @@
+room_id,hotel_id,room_number,room_type,price,status
+1,1,101,Standard,2500.00,Available
+2,1,102,Deluxe,4000.00,Occupied
+3,1,103,Suite,7000.00,Occupied
+4,2,201,Standard,2200.00,Available
+5,2,202,Deluxe,3800.00,Occupied
+6,3,301,Standard,1800.00,Available
+7,3,302,Suite,6000.00,Occupied
